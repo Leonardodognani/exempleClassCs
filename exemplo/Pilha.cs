@@ -15,7 +15,7 @@ namespace exempleClassCs.exemplo {
         {
             if(primeiro == null)
             {
-                throw new InvalidOperationException("Não foi possível remover o elemento selecionado, pois a Pilha está vazia");
+                throw new InvalidOperationException("Não foi possível remover o elemento selecionado, pois a Pilha está vazia.");
             }
 
             object resultado = primeiro.item;

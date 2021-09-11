@@ -1,5 +1,4 @@
 ﻿using System;
-
 using exempleClassCs.exemplo;
 
 namespace exempleClassCs
@@ -12,6 +11,8 @@ namespace exempleClassCs
             s.Empilha(1);
             s.Empilha(10);
             s.Empilha(100);
+            s.Empilha(1000);
+            Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());

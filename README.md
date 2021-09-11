@@ -1,4 +1,8 @@
-# aula de .NET C#
-## aula não concluída, mas em andamento.
-* aula da plataforma Digital Innovation One;
-* aula em andamento...
+# Exemplo de estrutura C# em .NET
+## Exemplo de estrutura C#
+* Aula da plataforma Digital Innovation One;
+* Pequeno código para explicar partes da estrutura;
+* Usado como exemplo a página padrão "Program" e add "Pilha";
+* Aula bem básica para se entender alguns comandos.
+
+## :rocket: :rocket: :rocket:

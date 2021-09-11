@@ -1,6 +1,7 @@
 using System;
 
-namespace exempleClassCs {
+
+namespace exempleClassCs.exemplo {
 
     public class Pilha {
 
@@ -14,7 +15,7 @@ namespace exempleClassCs {
         {
             if(primeiro == null)
             {
-                throw new InvalidOperationException();
+                throw new InvalidOperationException("Não foi possível remover o elemento selecionado, pois a Pilha está vazia");
             }
 
             object resultado = primeiro.item;

@@ -1,0 +1,16 @@
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\obj\Debug\net5.0\exempleClassCs.csproj.AssemblyReference.cache
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\obj\Debug\net5.0\exempleClassCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\obj\Debug\net5.0\exempleClassCs.AssemblyInfoInputs.cache
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\obj\Debug\net5.0\exempleClassCs.AssemblyInfo.cs
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\obj\Debug\net5.0\exempleClassCs.csproj.CoreCompileInputs.cache
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\bin\Debug\net5.0\exempleClassCs.exe
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\bin\Debug\net5.0\exempleClassCs.deps.json
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\bin\Debug\net5.0\exempleClassCs.runtimeconfig.json
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\bin\Debug\net5.0\exempleClassCs.runtimeconfig.dev.json
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\bin\Debug\net5.0\exempleClassCs.dll
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\bin\Debug\net5.0\ref\exempleClassCs.dll
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\bin\Debug\net5.0\exempleClassCs.pdb
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\obj\Debug\net5.0\exempleClassCs.dll
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\obj\Debug\net5.0\ref\exempleClassCs.dll
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\obj\Debug\net5.0\exempleClassCs.pdb
+C:\Users\Sorath\Desktop\Codes\GitHub\DIO\exempleClassCs\obj\Debug\net5.0\exempleClassCs.genruntimeconfig.cache
